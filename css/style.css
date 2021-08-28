@@ -1,0 +1,73 @@
+
+/* header section styles */
+
+.header-bg-color {
+    background-color: #9023e9;
+}
+
+.text-color {
+    color: #E0E0E0;
+}
+
+.purchase-button {
+    background-color: #E76F51;
+    font-size: 16px;
+    padding: 10px 46px;
+    color: white;
+    border: none;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+/* fetured bike section style */
+
+.sub-title-color {
+    color: #E76F51;
+    font-size: 14px;
+}
+
+.feature-bike-size {
+    width: 288px;
+    height: 243px;
+}
+
+.for-grayscale {
+    filter: grayscale(100%);
+}
+
+/* happy client section styles */
+
+.title-span-color {
+    color: #E76F51;
+}
+
+.client-img-size {
+    height: 149px;
+    width: 149px;
+}
+
+.icon-color {
+    color: #E76F51;
+}
+
+.card-author {
+    color: #23A6F0;
+}
+
+
+/* faq section design */
+
+.faq-img {
+    height: 397px;
+    width: 424px;
+}
+
+.faq-ans-color {
+    color: #7E848C;
+}
+
+.faq-question-color {
+    color: #383838;
+    font-weight: 500;
+    font-size: 20px;
+}
